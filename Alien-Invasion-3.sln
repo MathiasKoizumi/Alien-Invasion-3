@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alien-Invasion-3", "Alien-Invasion-3.csproj", "{D91DD0B4-1DB2-439B-B2F6-A9A416A2D37F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D91DD0B4-1DB2-439B-B2F6-A9A416A2D37F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91DD0B4-1DB2-439B-B2F6-A9A416A2D37F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91DD0B4-1DB2-439B-B2F6-A9A416A2D37F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91DD0B4-1DB2-439B-B2F6-A9A416A2D37F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36AB560E-1B9B-4B37-A288-B5F07FD54266}
+	EndGlobalSection
+EndGlobal
